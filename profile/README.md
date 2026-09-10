@@ -15,9 +15,9 @@ The Voidborn are probing our fleet. Your job: learn to defend it — with code. 
 | Module | What you learn | Ends with |
 |--------|----------------|-----------|
 | **Mission 0 — Enrolment** | Environment shakeout: boot a node, first Ansible command | ✅ Your first green ARIA banner (~15 min) |
-| **Module 1 — Foundation** (missions 1.1–1.5) | Inventory, playbooks, hardening, templates, roles & Vault | 🎯 [Gateway Simulation](https://github.com/starfall-defence-corps/gateway-simulation) — 75-min capstone |
-| **Module 2 — Advanced** (missions 2.1–2.4) | Molecule testing, CIS compliance, orchestration, CI/CD | 🎯 [Master Simulation](https://github.com/starfall-defence-corps/master-simulation) — 3.5-hr capstone |
-| **Modules 3–4** | MOS specialisations + field manuals | *In development* |
+| **Module 1 — Foundation** (missions 1.1–1.6) | Inventory, playbooks, hardening, templates, roles & Vault, host discovery | 🎯 [Gateway Simulation](https://github.com/starfall-defence-corps/gateway-simulation) — 75-min capstone |
+| **Module 2 — Advanced** (missions 2.1–2.6) | Molecule testing, CIS compliance, orchestration, CI/CD, incident response | 🎯 [Master Simulation](https://github.com/starfall-defence-corps/master-simulation) — 3.5-hr capstone |
+| **Module 3 — MOS electives** | [MOS 4 — Eyes Everywhere](https://github.com/starfall-defence-corps/mission-3-4-eyes-everywhere) (telemetry at scale) · [MOS 5 — Battle Rattle](https://github.com/starfall-defence-corps/mission-3-5-battle-rattle) (reusable IR runbooks) | 🎯 2+ MOS = Commander rank (more MOS + Final Exercise *in development*) |
 
 📖 Full lore, briefings, and rank progression: [Course Outline](https://github.com/starfall-defence-corps/sdc-academy/blob/main/COURSE_OUTLINE.md) · Reference library: [Field Manuals](https://github.com/starfall-defence-corps/sdc-academy/tree/main/field-manuals)
 
